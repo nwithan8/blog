@@ -1,6 +1,6 @@
 ## Including non-code assets in your NuGet package
 
-I've been working on a NuGet package recently, a small library that provides extensions and helper methods for
+I've been working on a NuGet package recently, a small library that [provides extensions and helper methods](https://github.com/nwithan8/easypost-extensions-dotnet) for
 the [.NET EasyPost API client library](https://github.com/EasyPost/easypost-csharp).
 
 One new feature I am looking to add is some helper functions that will generate random data for testing purposes. I
