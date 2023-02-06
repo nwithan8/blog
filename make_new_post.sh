@@ -2,15 +2,15 @@
 
 # This script creates a new post in the _posts directory
 
-# Usage: ./make_new_post.sh "file name" "Post Title"
-# If no post title is given, the file name will be used as the title
+# Usage: ./make_new_post.sh "Post Title" "file name"
+# If no file name is given, the title will be used as the file name
 
-file_name=$1
-title=$2
+title=$1
+file_name=$2
 
-# if no title is given, use the file name as the title
-if [ -z "$title" ]; then
-    title=$file_name
+# if no file name is given, use the title as the file name
+if [ -z "$file_name" ]; then
+    file_name=$title
 fi
 
 # lowercase the file name
@@ -18,6 +18,9 @@ file_name=$(echo "$file_name" | tr '[:upper:]' '[:lower:]')
 
 # replace spaces with dashes in the file name
 file_name_dashed="${file_name// /-}"
+
+# remove any non-alphanumeric characters from the file name
+file_name_dashed=$(echo "$file_name_dashed" | tr -cd '[:alnum:]-')
 
 # create the file
 path=_posts/$(date +%F)-$file_name_dashed.md
