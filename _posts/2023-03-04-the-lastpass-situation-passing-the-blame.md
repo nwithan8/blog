@@ -2,9 +2,9 @@
 
 In August, LastPass, a very popular password manager, suffered a massive security breach.
 
-Initially, the company was suspiciously reluctant to reveal any significant details about the situation, releasing a pithy statement in November with little more than a vague description of an attack on their systems.
+Initially, the company was suspiciously reluctant to reveal any significant details about the situation, releasing a [pithy statement](https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/#:~:text=Update%20as%20of%20Wednesday%2C%20November%2030%2C%202022) in November with little more than a vague description of an attack on their systems.
 
-In December, the company released more details, revealing that the attackers had gained access to the company's own password vault (aside: good for a password manager company for using its own product, I guess) and stolen its Amazon Web Services credentials. From there, the attackers was able to access the company's storage systems and download user password vaults.
+In December, the company [released more details](https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/), revealing that the attackers had gained access to the company's own password vault (aside: good for a password manager company for using its own product, I guess) and stolen its Amazon Web Services credentials. From there, the attackers was able to access the company's storage systems and download user password vaults.
 
 Now granted, these vaults are encrypted with each user's own master password, but the only thing standing between a LastPass user's passwords and the attackers right now is a single password. And, unfortunately, there are plenty of people out there who still use things like "password123" as their password.
 
@@ -26,7 +26,7 @@ The "third-party media software package" was later confirmed to be Plex Media Se
 
 This is a carefully-crafted red-herring (and we'll see why in a minute). While disclosing that the exploit was due to a vulnerability in another piece of software, especially one as popular as Plex, is important to spread the word about the issue, this inherently comes off as passing blame. LastPass here is trying to distract from their own mistakes by pointing out that Plex apparently has a major vulnerability in it.
 
-What's more, [comments and a statement from Plex](https://www.reddit.com/r/PleX/comments/11dsx8e/plex_vulnerability_used_to_steal_corporate/jad1tkk/) following the news revealed that LastPass hadn't yet contacted them regarding the bug. As far as anyone knew, Plex had a major exploit floating around in its software and was unsure how to fix it.
+What's more, [comments and a statement from Plex](https://www.reddit.com/r/PleX/comments/11dsx8e/plex_vulnerability_used_to_steal_corporate/jad1tkk/) following the news revealed that LastPass [hadn't yet contacted them](https://forums.plex.tv/t/plex-remote-code-execution-exploit-used-in-lastpass-breach/832727/11) regarding the bug. As far as anyone knew, Plex had a major exploit floating around in its software and was unsure how to fix it.
 
 And LastPass' distraction worked. In groups and forums, people stopped talking about LastPass' security issues and started talking about Plex's. I had fellow Plex enthusiasts asking me if I knew anything about the vulnerability, and whether running Plex in a Docker container versus directly on Windows protected them from the vulnerability. (I would imagine the DevOps engineer was running Plex on their personal Windows machine, an odd choice for sure). Others said they were jumping ship over to Emby and Jellyfin.
 
@@ -36,7 +36,7 @@ While LastPass wasn't off the hook, it had successfully shifted the blame to Ple
 
 Until a few days later, when Plex had seemingly gotten in touch with LastPass to discuss the vulnerability.
 
-And it turns out, the vulnerability, a bug in the Camera Upload feature that allowed remote code execution, had already been fixed. [Back in May 2020](https://www.pcmag.com/news/lastpass-employee-couldve-prevented-hack-with-a-software-update).
+And it turns out, the vulnerability, a [bug in the Camera Upload feature](https://forums.plex.tv/t/security-regarding-cve-2020-5741/586819) that allowed remote code execution, had already been fixed. [Back in May 2020](https://www.pcmag.com/news/lastpass-employee-couldve-prevented-hack-with-a-software-update).
 
 > Unfortunately, the LastPass employee never upgraded their software to activate the patch. For reference, the version that addressed this exploit was roughly 75 versions ago.
 
