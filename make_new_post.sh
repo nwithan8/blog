@@ -5,6 +5,13 @@
 # Usage: ./make_new_post.sh "Post Title" "file name"
 # If no file name is given, the title will be used as the file name
 
+# show help if no arguments are given
+if [ -z "$1" ]; then
+    echo "Usage: ./make_new_post.sh \"Post Title\" \"file name\""
+    echo "If no file name is given, the title will be used as the file name"
+    exit 1
+fi
+
 title=$1
 file_name=$2
 
