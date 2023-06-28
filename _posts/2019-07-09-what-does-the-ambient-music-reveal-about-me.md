@@ -24,7 +24,7 @@ Let’s take this to an extreme data-processing situation: based off the order a
 
 Now, with the experiment done, I’ve turned off the listening feature on my phone as best I could. While it seems like the feature is off, at least visible to the user (the last song documented in the “Now Listening” history was in fact the last song playing before I stopped the experiment), there doesn’t appear to be a conclusive way to disable the feature. I’ll include a screenshot of the page below; the Now Playing settings has a single toggle to turn off “Show songs on lock screen.” Whether that means the phone is no longer listening or it’s simply not displaying the results anymore is unclear (Android has a [history of collecting data in the background](https://web.archive.org/web/20221222115106/https://twitter.com/nwithan8/status/1102699724254138368) even if there’s no front-end way to view the data). And, regardless of what the page says about privacy, I remain convinced that there’s simply no way an enormous library of song IDs could possibly be stored offline on my phone without consuming massive amounts of storage, and that the audio is in fact being funneled through Google’s servers.
 
-<img src="../assets/2019-07-09-what-does-the-ambient-music-reveal-about-me-1.png" alt="It’s not entirely clear if it’s no longer listening, or just not telling you it’s listening.">
+<img src="https://raw.githubusercontent.com/nwithan8/blog/master/assets/2019-07-09-what-does-the-ambient-music-reveal-about-me-1.png" alt="It’s not entirely clear if it’s no longer listening, or just not telling you it’s listening.">
 
 It’s not entirely clear if it’s no longer listening, or just not telling you it’s listening.
 
