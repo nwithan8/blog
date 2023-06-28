@@ -1,4 +1,4 @@
-# The definitive ranking of “Music To Be Murdered By” tracks
+## The definitive ranking of “Music To Be Murdered By” tracks
 
 I’ve listened to nothing but Eminem’s new album for two weeks. The album, his best since Recovery, is chock-full of absolute bangers. Here’s the definitive worst-to-best rankings of all 17 tracks.
 

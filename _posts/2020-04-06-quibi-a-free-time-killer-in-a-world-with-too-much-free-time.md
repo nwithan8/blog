@@ -1,4 +1,4 @@
-# Quibi: A free-time killer in a world with too much free time
+## Quibi: A free-time killer in a world with too much free time
 
 After months of relentless ads and over $1.75 billion in backing, [Quibi](https://web.archive.org/web/20200806174443/https://quibi.com/), a new short-video streaming service, finally launched Monday morning.
 

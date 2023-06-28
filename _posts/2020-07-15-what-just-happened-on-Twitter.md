@@ -1,4 +1,4 @@
-# What just happened on Twitter?
+## What just happened on Twitter?
 
 UPDATE: Since Wednesday’s hack, Twitter has stated that they believe the hackers targeted approximately 130 accounts on the social media site. Media outlets are reporting that the hackers potentially took control of the accounts by accessing an employee admin panel and changing the email address associated with each account. Twitter is continuing to look into what information may have been compromised.
 
