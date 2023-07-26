@@ -5,7 +5,6 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
@@ -23,7 +22,7 @@ layout: default
   </div>
 
   <div class="post-content e-content" itemprop="articleBody">
-    {% include anchor_headings.html html=content anchorBody="<i class='fa fa-link'></i>" %}
+    {{ content }}
     {% include navlinks.html %}
   </div>
 
