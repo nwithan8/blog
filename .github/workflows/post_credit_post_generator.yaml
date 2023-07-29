@@ -1,0 +1,23 @@
+name: Generate a new Post-Credit Scene Post when a comment is made on the Post-Credit Scene Collection issue
+
+on:
+  issue_comment:
+    types: [created]
+
+jobs:
+  new_post_credit_scene_issue:
+    name: New Post-Credit Scene Comment
+    if: |
+      ${{ !github.event.issue.pull_request 
+          &&
+          github.event.issue.title == 'Post-Credit Scene Collection'
+      }}
+    # ^ Filter by only nwithan8 in the future?
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          COMMENT_BODY: ${{ github.event.comment.body }}
+          USER: ${{ github.event.comment.user.login }}
+        run: |
+          echo A comment on issue $NUMBER was made with body $COMMENT_BODY by $USER
