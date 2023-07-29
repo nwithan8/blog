@@ -2,7 +2,7 @@ name: Generate a new Post-Credit Scene Post when a comment is made on the Post-C
 
 on:
   issue_comment:
-    types: [created]
+    types: [ created ]
 
 jobs:
   new_post_credit_scene_issue:
@@ -20,22 +20,31 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-        # Format: Movie \n Year \n Yes/No \n comma-separated list of tags
-      - name: Parse comment body
-        id: parse
-        run: |
-          echo "::set-output name=movie::$(echo ${{ github.event.comment.body }} | cut -d$'\n' -f1)"
-          echo "::set-output name=year::$(echo ${{ github.event.comment.body }} | cut -d$'\n' -f2)"
-          echo "::set-output name=has_post_credit_scene::$(echo ${{ github.event.comment.body }} | cut -d$'\n' -f3)"
-          echo "::set-output name=tags::$(echo ${{ github.event.comment.body }} | cut -d$'\n' -f4)"
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
 
-      # Run make_new_post_credit_post.sh with the parsed comment body
-      - name: Create Post-Credit Scene Post
-        # run: |
-        #  ./make_new_post_credit_post.sh "${{ steps.parse.outputs.movie }}" "${{ steps.parse.outputs.year }}" "${{ steps.parse.outputs.has_post_credit_scene }}" "${{ steps.parse.outputs.tags }}"
-        run: |
-          echo SCRIPT "${{ steps.parse.outputs.movie }}" "${{ steps.parse.outputs.year }}" "${{ steps.parse.outputs.has_post_credit_scene }}" "${{ steps.parse.outputs.tags }}"
+        # Format:
+        #   Movie Name
+        #   Year
+        #   Yes/No
+        #   comma-separated list of tags
+      - name: Build Post-Credit Scene post
+        id: build_post_credit_scene_post
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMENT_BODY: ${{ github.event.comment.body }}
+        run: |
+          python3 make_new_post_credit_scene_post.py "${COMMENT_BODY}"
 
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Add new Post-Credit Scene post
 
+          # Optional glob pattern of files which should be added to the commit
+          # Defaults to all (.)
+          # See the `pathspec`-documentation for git
+          # - https://git-scm.com/docs/git-add#Documentation/git-add.txt-ltpathspecgt82308203
+          # - https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefpathspecapathspec
+          file_pattern: '*.md'
