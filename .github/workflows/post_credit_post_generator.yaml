@@ -37,14 +37,12 @@ jobs:
         run: |
           python3 make_new_post_credit_scene_post.py "${COMMENT_BODY}"
 
+      - name: Add new file to git
+        run: |
+          git add .
+          git status
+
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Add new Post-Credit Scene post
-
-          # Optional glob pattern of files which should be added to the commit
-          # Defaults to all (.)
-          # See the `pathspec`-documentation for git
-          # - https://git-scm.com/docs/git-add#Documentation/git-add.txt-ltpathspecgt82308203
-          # - https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefpathspecapathspec
-          file_pattern: '*.md'
