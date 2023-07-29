@@ -7,17 +7,35 @@ on:
 jobs:
   new_post_credit_scene_issue:
     name: New Post-Credit Scene Comment
+    # Limited to only nwithan8 commenting on the Post-Credit Scene Collection issue
     if: |
       ${{ !github.event.issue.pull_request 
           &&
           github.event.issue.title == 'Post-Credit Scene Collection'
+          &&
+          github.event.comment.user.login == 'nwithan8'
       }}
-    # ^ Filter by only nwithan8 in the future?
     runs-on: ubuntu-latest
     steps:
-      - env:
-          ISSUE_NUMBER: ${{ github.event.issue.number }}
-          COMMENT_BODY: ${{ github.event.comment.body }}
-          USER: ${{ github.event.comment.user.login }}
+      - name: Checkout
+        uses: actions/checkout@v3
+
+        # Format: Movie \n Year \n Yes/No \n comma-separated list of tags
+      - name: Parse comment body
+        id: parse
         run: |
-          echo A comment on issue $NUMBER was made with body $COMMENT_BODY by $USER
+          echo "::set-output name=movie::$(echo ${{ github.event.comment.body }} | cut -d$'\n' -f1)"
+          echo "::set-output name=year::$(echo ${{ github.event.comment.body }} | cut -d$'\n' -f2)"
+          echo "::set-output name=has_post_credit_scene::$(echo ${{ github.event.comment.body }} | cut -d$'\n' -f3)"
+          echo "::set-output name=tags::$(echo ${{ github.event.comment.body }} | cut -d$'\n' -f4)"
+
+      # Run make_new_post_credit_post.sh with the parsed comment body
+      - name: Create Post-Credit Scene Post
+        # run: |
+        #  ./make_new_post_credit_post.sh "${{ steps.parse.outputs.movie }}" "${{ steps.parse.outputs.year }}" "${{ steps.parse.outputs.has_post_credit_scene }}" "${{ steps.parse.outputs.tags }}"
+        run: |
+          echo SCRIPT "${{ steps.parse.outputs.movie }}" "${{ steps.parse.outputs.year }}" "${{ steps.parse.outputs.has_post_credit_scene }}" "${{ steps.parse.outputs.tags }}"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
