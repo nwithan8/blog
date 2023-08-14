@@ -1,5 +1,5 @@
 ---
-description: Does Meg 2: The Trench (2023) have a post credit scene?
+description: Does Meg 2 - The Trench (2023) have a post credit scene?
 tags: 
     - Meg
     - Jason Statham
@@ -13,7 +13,7 @@ tags:
     - cinema
     - movie
     - scene
-    - Meg 2: The Trench
+    - Meg 2 - The Trench
     - post-credits
     - theatre
     - film

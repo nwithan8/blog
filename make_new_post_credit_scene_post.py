@@ -42,7 +42,7 @@ DEFAULT_TAGS = [
 # Combine tags and default tags.
 tags = tags + DEFAULT_TAGS
 # Add movie name as a tag.
-tags.append(movie_name)
+tags.append(movie_name.replace(': ', ' - '))
 # Remove duplicates.
 tags = list(set(tags))
 
@@ -51,6 +51,10 @@ tags_formatted = '\n    - '.join(tags)
 
 # Build post title
 post_title = f"Does {movie_name} ({year}) have a post credit scene?"
+
+# Build post description
+post_description = post_title
+post_description = post_description.replace(': ', ' - ')
 
 # Build yes or no answer
 yes_or_no_answer = "Yes." if yes_or_no.lower().startswith('y') else "No."
