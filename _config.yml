@@ -14,6 +14,9 @@ linkedin_username: "nwithan8"
 #pinterest_username: username
 youtube_username: TechySpeaking
 #googleplus_username: +username
+mastodon:
+  - instance: "mas.to"
+    username: "nwithan8"
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
