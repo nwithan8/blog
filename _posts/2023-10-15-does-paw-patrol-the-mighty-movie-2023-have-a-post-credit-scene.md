@@ -1,5 +1,5 @@
 ---
-description: Does PAW Patrol: The Mighty Movie (2023) have a post credit scene?
+description: Does PAW Patrol - The Mighty Movie (2023) have a post credit scene?
 tags: 
     - PAW Patrol - The Mighty Movie
     - spoiler
