@@ -77,7 +77,7 @@ file_name = f"{today}-{file_name}.md"
 
 # Build the post body
 post_body = f"""---
-description: {post_title}
+description: {post_description}
 tags: 
     - {tags_formatted}
 ---
