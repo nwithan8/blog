@@ -41,4 +41,4 @@ tags:
 
 ## Does Ezra (2024) have a post credit scene?
 
-No.
+Yes.
