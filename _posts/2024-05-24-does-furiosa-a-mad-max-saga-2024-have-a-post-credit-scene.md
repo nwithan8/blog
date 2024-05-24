@@ -1,0 +1,71 @@
+---
+description: Does Furiosa - A Mad Max Saga (2024) have a post credit scene?
+tags: 
+    - danger
+    - cinema
+    - mother
+    - post-credit
+    - theater
+    - peaches
+    - Australia
+    - Chris Hemsworth
+    - John Howard
+    - Josh Helman
+    - arm
+    - Toecuter
+    - Fury Road
+    - apocolypse
+    - Rictus Erectus
+    - scenes
+    - movie
+    - Toe Jam
+    - George Miller
+    - Dementus
+    - Anya Taylor-Joy
+    - motercycles
+    - prequel
+    - gastown
+    - theatre
+    - revenge
+    - franchise
+    - explosions
+    - death
+    - post-credits
+    - David Field
+    - territory
+    - Max Rockatansky
+    - story
+    - gimp
+    - bikes
+    - Hughs Keays-Byrne
+    - Mel Gibson
+    - spoiler
+    - myth
+    - fire
+    - Green Place
+    - Nathan Jones
+    - bullets
+    - Alyla Browne
+    - spoilers
+    - stunts
+    - Tom Burke
+    - slave
+    - film
+    - Furiosa - A Mad Max Saga
+    - Dadiv Collins
+    - wasteland
+    - scene
+    - brides
+    - speed
+    - skulls
+    - Lachy Hulme
+    - cars
+    - Mad Max
+    - Immoran Joe
+    - Furiosa
+    - Happy Feet
+---
+
+## Does Furiosa: A Mad Max Saga (2024) have a post credit scene?
+
+Yes.
