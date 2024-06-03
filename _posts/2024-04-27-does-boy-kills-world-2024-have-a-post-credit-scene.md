@@ -43,4 +43,4 @@ tags:
 
 ## Does Boy Kills World (2024) have a post credit scene?
 
-No.
+Yes.
