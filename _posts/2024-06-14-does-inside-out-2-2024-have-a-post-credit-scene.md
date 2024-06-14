@@ -1,0 +1,69 @@
+---
+description: Does Inside Out 2 (2024) have a post credit scene?
+tags: 
+    - good person
+    - worried
+    - movie
+    - spoiler
+    - Anger
+    - ice
+    - Meg LeFauve
+    - film
+    - beliefs
+    - Maya Hawke
+    - scenes
+    - nervous
+    - Sadness
+    - Kelsey Mann
+    - Anxiety
+    - panic attack
+    - Inside Out 2
+    - Minnesota
+    - Embarrassment
+    - middle school
+    - Amy Poehler
+    - sport
+    - scared
+    - Joy
+    - Deep Dark Secret
+    - post-credit
+    - theater
+    - emotions
+    - Riley
+    - Tony Hale
+    - Lewis Black
+    - post-credits
+    - puberty
+    - brain
+    - Ennui
+    - Disney
+    - hockey
+    - growing up
+    - sequel
+    - Michigan
+    - spoilers
+    - mental health
+    - imagination
+    - cinema
+    - theatre
+    - Dave Holstein
+    - Fear
+    - Phyllis Smith
+    - Envy
+    - San Francisco
+    - Ayo Edebiri
+    - Disgust
+    - Liza Lapira
+    - Pixar
+    - scene
+    - Adèle Exarchopoulos
+    - mind
+    - high school
+    - self-image
+    - Nostalgia
+    - teenager
+---
+
+## Does Inside Out 2 (2024) have a post credit scene?
+
+Yes.
