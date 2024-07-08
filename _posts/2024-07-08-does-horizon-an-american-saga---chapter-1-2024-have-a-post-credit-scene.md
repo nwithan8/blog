@@ -1,0 +1,73 @@
+---
+description: Does Horizon - An American Saga - Chapter 1 (2024) have a post credit scene?
+tags: 
+    - Sherlock
+    - horses
+    - scene
+    - bomb
+    - villian
+    - Manifest Destiny
+    - gun
+    - The Postman
+    - Indian
+    - Moriarty
+    - Suicide Squad
+    - spoilers
+    - Giovanni Ribisi
+    - JJ Abrams
+    - Sam Worthington
+    - cowboy
+    - post-credits
+    - post-credit
+    - Luke Wilson
+    - BBC
+    - home
+    - movie
+    - Waterworld
+    - theater
+    - scalp
+    - Michael Rooker
+    - colonel
+    - Danny Huston
+    - theatre
+    - Tatanka Means
+    - general
+    - cinematography
+    - Yellowstone
+    - Abbey Lee
+    - scenes
+    - Sienna Miller
+    - Jeff Fahey
+    - Jena Malone
+    - homestead
+    - James Gunn
+    - Horizon - An American Saga - Chapter 1
+    - Ella Hunt
+    - bad guy
+    - Holmes
+    - Apache
+    - Yondu
+    - cinema
+    - arrow
+    - Wonder Woman
+    - Oregon Trail
+    - western
+    - land
+    - leader
+    - spoiler
+    - Avatar
+    - Frank Lapidus
+    - native
+    - Kevin Costner
+    - Guardians of the Galaxy
+    - wagon
+    - film
+    - army
+    - bow
+    - Union
+    - Lost
+---
+
+## Does Horizon: An American Saga - Chapter 1 (2024) have a post credit scene?
+
+No.
