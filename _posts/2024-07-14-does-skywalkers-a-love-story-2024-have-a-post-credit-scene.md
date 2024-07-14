@@ -1,0 +1,61 @@
+---
+description: Does Skywalkers - A Love Story (2024) have a post credit scene?
+tags: 
+    - editing
+    - documentary
+    - NFT
+    - Netflix
+    - fake
+    - post-credit
+    - skyscrapers
+    - subtitles
+    - scenes
+    - climbing
+    - malicious
+    - COVID
+    - Ukraine
+    - buildings
+    - Kuala Lumpar
+    - Angela Nikolau
+    - Russia
+    - injury
+    - Skywalkers - A Love Story
+    - theater
+    - dangerous
+    - circus
+    - post-credits
+    - internet
+    - film
+    - arrest
+    - fall
+    - urban
+    - illegal
+    - IMAX
+    - relationship
+    - cinema
+    - spoilers
+    - vandalism
+    - theatre
+    - Ivan Beerkus
+    - romance
+    - unreal
+    - Merdeka 118
+    - love
+    - influencer
+    - death
+    - vertigo
+    - movie
+    - artist
+    - Maria Bukhonina
+    - scene
+    - Sundance
+    - gymnastics
+    - Jeff Zimbalist
+    - spoiler
+    - Instagram
+    - heights
+---
+
+## Does Skywalkers: A Love Story (2024) have a post credit scene?
+
+No.
