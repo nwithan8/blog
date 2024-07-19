@@ -1,0 +1,74 @@
+---
+description: Does Twisters (2024) have a post credit scene?
+tags: 
+    - Lee Isaac Chung
+    - Universal
+    - Kiernan Shipka
+    - Daryl McCormack
+    - Harry Hadden-Paton
+    - town
+    - adventure
+    - scenes
+    - cinema
+    - theatre
+    - hurricane
+    - damage
+    - trailer
+    - Kansas
+    - Maura Tierney
+    - Bill Paxton
+    - movie
+    - thrill
+    - post-credit
+    - influencer
+    - love
+    - lightning
+    - oil
+    - storm
+    - Helen Hunt
+    - Daisy Edgar-Jones
+    - Twisters
+    - sequel
+    - Frankenstein
+    - disaster
+    - Top Gun
+    - New York
+    - Warner Bros
+    - theater
+    - stormchaser
+    - legacy
+    - 1996
+    - Anthony Ramos
+    - spoiler
+    - Glen Powell
+    - scene
+    - twins
+    - teaser
+    - Brandon Perea
+    - fire
+    - Nik Dodani
+    - NWS
+    - Mark L. Smith
+    - action
+    - devastation
+    - weather
+    - chaser
+    - Philip Seymour-Hoffman
+    - David Corenswet
+    - gas
+    - rodeo
+    - post-credits
+    - land
+    - film
+    - reboot
+    - thunder
+    - Sasha Lane
+    - YouTube
+    - spoilers
+    - ride
+    - Oklahoma
+---
+
+## Does Twisters (2024) have a post credit scene?
+
+No.
