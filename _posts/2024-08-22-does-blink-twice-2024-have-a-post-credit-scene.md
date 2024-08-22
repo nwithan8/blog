@@ -1,0 +1,62 @@
+---
+description: Does Blink Twice (2024) have a post credit scene?
+tags: 
+    - memory
+    - Geena Davis
+    - kidnapping
+    - rape
+    - Adria Arjona
+    - weed
+    - Simon Rex
+    - post-credits
+    - MDMA
+    - Batman
+    - spoilers
+    - Sixth Sense
+    - Haley Joel Osment
+    - cinema
+    - apologize
+    - bystander
+    - witness
+    - scenes
+    - debut
+    - mystery
+    - movie
+    - Gambit
+    - sex
+    - island
+    - Morbius
+    - Blink Twice
+    - Christian Slater
+    - directorial
+    - thriller
+    - Channing Tatum
+    - tech
+    - pool
+    - blunt
+    - Alia Shawkat
+    - therapy
+    - Naomi Ackie
+    - theater
+    - Zoë Kravitz
+    - party
+    - venom
+    - billionaire
+    - Don't Worry Darling
+    - post-credit
+    - scene
+    - spoiler
+    - film
+    - sexual assault
+    - Heathers
+    - horror
+    - drugs
+    - theatre
+    - Kyle MacLachlan
+    - forget
+    - snake
+---
+
+## Does Blink Twice (2024) have a post credit scene?
+
+No.
