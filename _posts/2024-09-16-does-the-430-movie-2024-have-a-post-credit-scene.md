@@ -1,0 +1,67 @@
+---
+description: Does The 4:30 Movie (2024) have a post credit scene?
+tags: 
+    - biography
+    - Jason Biggs
+    - relationship
+    - Star Wars
+    - movie
+    - Diedrich Bader
+    - jokes
+    - cinema
+    - Siena Agudong
+    - cheesy
+    - theatre
+    - post-credits
+    - Nick Cirillo
+    - Ralph Garman
+    - movies
+    - scene
+    - Adam Pally
+    - low-budget
+    - Jennifer Schwalbach Smith
+    - Sam Richardson
+    - Reed Northrup
+    - Justin Long
+    - Harley Quinn Smith
+    - Batman
+    - Jason Lee
+    - comedy
+    - young love
+    - Rosario Dawson
+    - Austin Zajur
+    - film
+    - theater
+    - spoilers
+    - The 4:30 Movie
+    - Saban Films
+    - teen
+    - Jason Mewes
+    - Method Man
+    - vintage
+    - Clerks
+    - references
+    - superheroes
+    - horror
+    - Rachel Dratch
+    - Kevin Smith
+    - sneak
+    - studio
+    - romance
+    - Genesis Rodriguez
+    - Logic
+    - Kate Micucci
+    - scenes
+    - popcorn
+    - John Hughes
+    - Jenny Mollen
+    - Ken Jeong
+    - 1980s
+    - Betty Aberlin
+    - post-credit
+    - spoiler
+---
+
+## Does The 4:30 Movie (2024) have a post credit scene?
+
+Yes.
