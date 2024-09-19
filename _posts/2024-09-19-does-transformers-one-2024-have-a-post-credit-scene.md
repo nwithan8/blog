@@ -1,0 +1,78 @@
+---
+description: Does Transformers One (2024) have a post credit scene?
+tags: 
+    - cinema
+    - Inside Out
+    - Michael Bay
+    - Decepticons
+    - Megatron
+    - scary
+    - scenes
+    - Energon
+    - theater
+    - spoilers
+    - kids
+    - Chris Hemsworth
+    - friends
+    - scene
+    - train
+    - post-credits
+    - Volkswagen
+    - bug
+    - animation
+    - Scarlett Johansson
+    - beetle
+    - Starscream
+    - Autobots
+    - D-16
+    - Orion Pax
+    - adventure
+    - post-credit
+    - cars
+    - movie
+    - gun
+    - Disney
+    - fight
+    - Optimus Prime
+    - Keegan-Michael Key
+    - Josh Cooley
+    - Laurence Fishburne
+    - RC
+    - Shockwave
+    - 18-wheeler
+    - B-127
+    - Airacnid
+    - comics
+    - Peter Cullen
+    - action
+    - enemy
+    - trucks
+    - Alpha Trion
+    - Bumblebee
+    - cameo
+    - Warner Bros
+    - film
+    - Cybertron
+    - Paramount
+    - 1980s
+    - theatre
+    - Vanessa Liguori
+    - Steve Buscemi
+    - spoiler
+    - Transformers One
+    - acting
+    - Soundwave
+    - Jon Hamm
+    - cartoon
+    - Sentinel Prime
+    - toys
+    - voice
+    - Brian Tyree Henry
+    - Orson Welles
+    - Camaro
+    - spider
+---
+
+## Does Transformers One (2024) have a post credit scene?
+
+Yes.
