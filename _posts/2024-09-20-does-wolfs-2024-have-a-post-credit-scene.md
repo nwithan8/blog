@@ -1,0 +1,63 @@
+---
+description: Does Wolfs (2024) have a post credit scene?
+tags: 
+    - Irina Dubova
+    - film
+    - shooting
+    - George Clooney
+    - mob
+    - cleaner
+    - professional
+    - hotel
+    - bickering
+    - post-credit
+    - movie
+    - cinema
+    - murder
+    - Wolfs
+    - killing
+    - job
+    - heroin
+    - streaming
+    - villian
+    - Ocean's Twelve
+    - Jon Watts
+    - Amy Ryan
+    - scene
+    - shootout
+    - Apple
+    - theatre
+    - Brad Pitt
+    - theatrical
+    - chase
+    - Spider-Man
+    - cameo
+    - spoiler
+    - Marvel
+    - deal
+    - theater
+    - scenes
+    - negging
+    - spoilers
+    - fixer
+    - release
+    - night
+    - Ocean's Eleven
+    - Rob Riddell
+    - outlaws
+    - Poorna Jagannathan
+    - crime
+    - Austin Abrams
+    - death
+    - post-credits
+    - car
+    - Bullet Train
+    - Ocean's Thirteen
+    - drugs
+    - father
+    - Butch Cassidy
+---
+
+## Does Wolfs (2024) have a post credit scene?
+
+Yes.
