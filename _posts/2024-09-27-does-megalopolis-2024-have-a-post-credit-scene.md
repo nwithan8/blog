@@ -1,0 +1,74 @@
+---
+description: Does Megalopolis (2024) have a post credit scene?
+tags: 
+    - Talia Shire
+    - Rome
+    - socialite
+    - theatre
+    - Dustin Hoffman
+    - Cicero
+    - Apocalypse Now
+    - Bailey Coppola
+    - theater
+    - Francis Ford Coppola
+    - Chloe Fineman
+    - mess
+    - wealth
+    - spoilers
+    - Nathalie Emmanuel
+    - cinema
+    - film
+    - dead
+    - Megalopolis
+    - mayor
+    - Grace VanderWaal
+    - gangster
+    - James Remar
+    - scene
+    - coliseum
+    - gladiator
+    - rich
+    - scenes
+    - post-credits
+    - spoiler
+    - fever dream
+    - philosophy
+    - post-credit
+    - Giancarlo Esposito
+    - drugs
+    - Earth
+    - greed
+    - effects
+    - CGI
+    - McGuffin
+    - Adam Driver
+    - Kathryn Hunter
+    - bomb
+    - future
+    - D.B. Sweeney
+    - Aubrey Plaza
+    - wife
+    - Cesar
+    - Jon Voight
+    - Shia LaBeouf
+    - flop
+    - utopia
+    - dictator
+    - humanity
+    - ego
+    - horrible
+    - Godfather
+    - New York
+    - Laurence Fishburne
+    - empire
+    - world
+    - modern
+    - buildings
+    - movie
+    - Caesar
+    - Jason Schwartzman
+---
+
+## Does Megalopolis (2024) have a post credit scene?
+
+No.
