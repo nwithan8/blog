@@ -1,0 +1,71 @@
+---
+description: Does Lee (2024) have a post credit scene?
+tags: 
+    - scenes
+    - France
+    - liberty
+    - scene
+    - Hitler
+    - Zita Hanrot
+    - World War
+    - Samuel Barnett
+    - London
+    - James Murray
+    - memory
+    - magazine
+    - war
+    - Lee Miller
+    - post-credit
+    - Holocaust
+    - Vogue
+    - TIME
+    - Ian Dunnett Jr
+    - Andrea Riseborough
+    - reporting
+    - battle
+    - Ellen Kuras
+    - Enrique Arce
+    - A24
+    - Arinzé Kene
+    - Paris
+    - photography
+    - photojournalist
+    - Kate Winslet
+    - spoiler
+    - United States
+    - LIFE
+    - Noémie Merlant
+    - history
+    - Nazi
+    - Berlin
+    - correspondent
+    - document
+    - journalism
+    - film
+    - cinema
+    - Andy Samberg
+    - England
+    - biopic
+    - theater
+    - Civil War
+    - Vincent Colombe
+    - movie
+    - soldier
+    - Josh O'Connor
+    - Adolf
+    - theatre
+    - Alexander Skarsgård
+    - Harriet Leitch
+    - spoilers
+    - post-credits
+    - Germany
+    - Lee
+    - Roadside Attractions
+    - Marion Cotillard
+    - WWII
+    - Patrick Mille
+---
+
+## Does Lee (2024) have a post credit scene?
+
+No.
