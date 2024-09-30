@@ -1,0 +1,68 @@
+---
+description: Does The Wild Robot (2024) have a post credit scene?
+tags: 
+    - Longneck
+    - alien
+    - wild
+    - book
+    - possum
+    - google
+    - children
+    - Bill Nighy
+    - Stephanie Hsu
+    - spoiler
+    - FInk
+    - attack
+    - robot
+    - fly
+    - Thunderbolt
+    - beaver
+    - nature
+    - Roz
+    - spoilers
+    - geese
+    - Brightbill
+    - cinema
+    - apocalypse
+    - film
+    - bear
+    - wilderness
+    - scene
+    - scenes
+    - theater
+    - Catherine O'Hara
+    - Vontra
+    - Pinktail
+    - Christopher Sanders
+    - Kit Connor
+    - falcon
+    - assistance
+    - mother
+    - Pedro Pascal
+    - bird
+    - The Wild Robot
+    - gosling
+    - Earth
+    - post-credit
+    - 7134
+    - Ving Rhames
+    - theatre
+    - fox
+    - movie
+    - post-credits
+    - motherhood
+    - Lupita Nyong'o
+    - violence
+    - Matt Berry
+    - ROZZUM
+    - goose
+    - Mark Hamill
+    - Thorn
+    - DreamWorks
+    - death
+    - Paddler
+---
+
+## Does The Wild Robot (2024) have a post credit scene?
+
+No.
