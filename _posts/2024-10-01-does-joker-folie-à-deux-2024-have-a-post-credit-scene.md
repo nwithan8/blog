@@ -1,0 +1,63 @@
+---
+description: Does Joker - Folie à Deux (2024) have a post credit scene?
+tags: 
+    - Steve Coogan
+    - Warner Bros
+    - schizophrenia
+    - jukebox
+    - spoiler
+    - Heath Ledger
+    - Joaquin Phoenix
+    - IMAX
+    - hallucinations
+    - baby
+    - 1970s
+    - scene
+    - relationship
+    - movie
+    - cinema
+    - Harvey Dent
+    - Robert Pattinson
+    - dreams
+    - New York
+    - songs
+    - crazy
+    - murder
+    - cult
+    - theater
+    - Todd Phillips
+    - bipolar
+    - Brendan Gleeson
+    - sequel
+    - Gotham
+    - pregnant
+    - moral
+    - Jacob Lofland
+    - Catherine Keener
+    - theatre
+    - A Star Is Born
+    - post-credit
+    - James Gunn
+    - escape
+    - panic
+    - drama
+    - DC
+    - Lady Gaga
+    - Harry Lawtey
+    - musical
+    - post-credits
+    - Joker - Folie à Deux
+    - Batman
+    - Zazie Beetz
+    - courtroom
+    - dance
+    - spoilers
+    - scenes
+    - delusion
+    - film
+    - love
+---
+
+## Does Joker: Folie à Deux (2024) have a post credit scene?
+
+No.
