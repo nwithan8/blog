@@ -1,0 +1,227 @@
+---
+description: Does Saturday Night (2024) have a post credit scene?
+tags: 
+    - Jeff Richards
+    - biography
+    - Tom Davis
+    - Damon Wayans
+    - Adam Sandler
+    - Colin Jost
+    - Jane Wickline
+    - Emily Prager
+    - Jane Curtin
+    - Ana Gasteyer
+    - Johnny Carson
+    - Nicholas Braun
+    - David Koechner
+    - Mike Myers
+    - Casey Wilson
+    - Gary Kroeger
+    - Colin Quinn
+    - Chris Kattan
+    - Saturday Night
+    - Jon Batiste
+    - Sony
+    - Rob Riggle
+    - Julia Louis-Dreyfus
+    - George Coe
+    - Chris Elliott
+    - Jim Breuer
+    - Jason Reitman
+    - Kristen Wiig
+    - Bill Murray
+    - Laurie Metcalf
+    - Andy Samberg
+    - Joe Piscopo
+    - Norm Macdonald
+    - Andrew Barth Feldman
+    - Melanie Hutsell
+    - film
+    - television
+    - Morwenna Banks
+    - Don Novello
+    - John Milhiser
+    - Beth Cahill
+    - Harry Shearer
+    - Aristotle Athari
+    - Columbia
+    - Tim Meadows
+    - Leslie Jones
+    - Paul Brittain
+    - David Spade
+    - Jon Lovitz
+    - Laura Kightlinger
+    - true story
+    - Eddie Murphy
+    - post-credit
+    - Ben Stiller
+    - Bill Hader
+    - Gabriel LaBelle
+    - Dana Carvey
+    - Chevy Chase
+    - Beck Bennett
+    - sketch
+    - Robin Duke
+    - Phil Hartman
+    - Rachel Dratch
+    - Brooks Wheelan
+    - Luke Null
+    - Terry Sweeney
+    - standup
+    - Finesse Mitchell
+    - Chris Farley
+    - Dennis Miller
+    - Kyle Mooney
+    - post-credits
+    - Rachel Sennott
+    - Tina Fey
+    - Taran Killam
+    - Gail Matthius
+    - Tim Kazurinsky
+    - Pete Davidson
+    - comedy
+    - Michael McKean
+    - Jason Sudeikis
+    - Rob Schneider
+    - Al Franken
+    - Robert Downey Jr.
+    - Ellen Cleghorne
+    - Mary Gross
+    - Nancy Walls
+    - Aidy Bryant
+    - Cecily Strong
+    - Mikey Day
+    - Michael O'Donoghue
+    - Joan Cusack
+    - Kaia Gerber
+    - Siobhan Fallon
+    - Kate McKinnon
+    - cinema
+    - Michaela Watkins
+    - Nasim Pedrad
+    - Michael Che
+    - spoilers
+    - Fred Armisen
+    - Universal
+    - Brad Hall
+    - J.K. Simmons
+    - Ella Hunt
+    - Ashley Padilla
+    - Sarah Silverman
+    - Jenny Slate
+    - Peter Aykroyd
+    - Chris Parnell
+    - Martin Short
+    - Jon Rudnitsky
+    - Jay Mohr
+    - Mark McKinney
+    - Chloe Fineman
+    - Marcello Hernandez
+    - Robert Smigel
+    - Lamorne Morris
+    - Fred Wolf
+    - Billy Crystal
+    - Sasheer Zamata
+    - Anthony Michael Hall
+    - scenes
+    - Dan Vitale
+    - Denny Dillon
+    - Jim Downey
+    - Gilda Radner
+    - Dean Edwards
+    - Bobby Moynihan
+    - Tom Schiller
+    - theatre
+    - Alan Zweibel
+    - Jan Hooks
+    - Chloe Troast
+    - Amy Poehler
+    - Molly Kearney
+    - Tommy Dewey
+    - Matthew Laurance
+    - theater
+    - Punkie Johnson
+    - Matt Wood
+    - Willem Dafoe
+    - Kenan Thompson
+    - Jay Pharoah
+    - Devon Walker
+    - Brian Doyle-Murray
+    - Dylan O'Brien
+    - Randy Quaid
+    - Molly Shannon
+    - Kim Matula
+    - Sarah Sherman
+    - Matthew Rhys
+    - Melissa Villaseñor
+    - Tony Rosato
+    - Charles Rocket
+    - Emily Fairn
+    - biopic
+    - NBC
+    - Chris Rock
+    - Christopher Guest
+    - Pamela Stephenson
+    - Jim Belushi
+    - 1975
+    - improv
+    - Horatio Sanz
+    - Mike O'Brien
+    - Rich Hall
+    - SNL
+    - anniversary
+    - Vanessa Bayer
+    - John Belushi
+    - 50
+    - Dan Aykroyd
+    - Nora Dunn
+    - Paul Shaffer
+    - Christine Ebersole
+    - Lorne Michaels
+    - Chris Redd
+    - Cheri Oteri
+    - Naomi McPherson
+    - Bowen Yang
+    - Tracy Morgan
+    - Tim Robinson
+    - Andrew Dismukes
+    - Michael Longfellow
+    - scene
+    - movie
+    - Victoria Jackson
+    - Danitra Vance
+    - Abby Elliott
+    - Cory Michael Smith
+    - Emil Wakim
+    - Patrick Weathers
+    - Lauren Holt
+    - Ego Nwodim
+    - Yvonne Hudson
+    - Kevin Nealon
+    - Heidi Gardner
+    - TV
+    - Julia Sweeney
+    - James Austin Johnson
+    - Will Ferrell
+    - Jimmy Fallon
+    - spoiler
+    - Janeane Garofalo
+    - Alex Moffat
+    - Maya Rudolph
+    - Finn Wolfhard
+    - Garrett Morris
+    - Laraine Newman
+    - Darrell Hammond
+    - Seth Meyers
+    - Gilbert Gottfried
+    - A. Whitney Brown
+    - Jerry Minor
+    - Noël Wells
+    - Will Forte
+    - Ann Risley
+    - Cooper Hoffman
+---
+
+## Does Saturday Night (2024) have a post credit scene?
+
+No.
