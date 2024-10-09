@@ -1,0 +1,61 @@
+---
+description: Does White Bird (2024) have a post credit scene?
+tags: 
+    - sequel
+    - Jewish
+    - occupation
+    - Germany
+    - prequel
+    - romance
+    - cinema
+    - grandma
+    - bravery
+    - spoiler
+    - drama
+    - France
+    - Marc Forster
+    - child
+    - theatre
+    - New York
+    - Jennifer Garner
+    - film
+    - Helen Mirren
+    - White Bird
+    - theater
+    - car
+    - spoilers
+    - Gillian Anderson
+    - school
+    - Charlie Chaplin
+    - love
+    - post-credits
+    - scene
+    - compassion
+    - sacrifice
+    - Nazi
+    - Bryce Gheisar
+    - Owen Wilson
+    - World War II
+    - Orlando Schwerdt
+    - Ariella Glaser
+    - Holocaust
+    - friend
+    - movie
+    - Judaism
+    - scenes
+    - post-credit
+    - barn
+    - Wonder
+    - war
+    - book
+    - astronaut
+    - author
+    - Hitler
+    - Jew
+    - Paris
+    - kindness
+---
+
+## Does White Bird (2024) have a post credit scene?
+
+No.
