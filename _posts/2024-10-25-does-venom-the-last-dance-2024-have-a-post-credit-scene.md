@@ -1,0 +1,64 @@
+---
+description: Does Venom - The Last Dance (2024) have a post credit scene?
+tags: 
+    - Juno Temple
+    - Cristo Fernández
+    - Xenophage
+    - multiverse
+    - film
+    - superhero
+    - Carnage
+    - cinema
+    - Army
+    - action
+    - Rhys Ifans
+    - symbiotes
+    - movie
+    - spoilers
+    - Amy Pascal
+    - dogs
+    - post-credits
+    - comedy
+    - Agony
+    - Xenomorph
+    - gambling
+    - scenes
+    - theater
+    - Stephen Graham
+    - lab
+    - Mexico
+    - Chiwetel Ejiofor
+    - Sony
+    - aliens
+    - theatre
+    - special forces
+    - villian
+    - Area 55
+    - Knull
+    - Venom - The Last Dance
+    - Area 51
+    - Tom Hardy
+    - Avi Arad
+    - Spider-Man
+    - casino
+    - Kraven
+    - monster
+    - Las Vegas
+    - hippies
+    - spoiler
+    - Grand Canyon
+    - post-credit
+    - New York
+    - violence
+    - Madame Web
+    - Marvel
+    - Alanna Ubach
+    - Peggy Lu
+    - buddy
+    - Kelly Marcel
+    - scene
+---
+
+## Does Venom: The Last Dance (2024) have a post credit scene?
+
+Yes.
