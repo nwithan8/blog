@@ -1,0 +1,68 @@
+---
+description: Does Gladiator II (2024) have a post credit scene?
+tags: 
+    - blood
+    - Colosseum
+    - empire
+    - tiger
+    - rhino
+    - Lior Raz
+    - conquer
+    - gay
+    - Joseph Quinn
+    - Yuval Gonen
+    - games
+    - post-credits
+    - revenge
+    - Ridley Scott
+    - father
+    - Alexander Karim
+    - general
+    - strength
+    - fight
+    - son
+    - Maximus
+    - film
+    - twins
+    - cinema
+    - Matt Lucas
+    - movie
+    - spoilers
+    - Gladiator II
+    - violence
+    - Pedro Pascal
+    - Denzel Washington
+    - Tim McInnerny
+    - monkey
+    - Peter Mensah
+    - plot
+    - traitor
+    - shark
+    - theatre
+    - gods
+    - post-credit
+    - queen
+    - Coliseum
+    - wife
+    - Gerald Butler
+    - sequel
+    - Derek Jacobi
+    - death
+    - scenes
+    - Rome
+    - secret
+    - Paul Mescal
+    - spoiler
+    - scene
+    - Fred Hechinger
+    - betray
+    - honor
+    - theater
+    - Connie Nielsen
+    - prince
+    - emperor
+---
+
+## Does Gladiator II (2024) have a post credit scene?
+
+No.
