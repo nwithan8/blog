@@ -1,0 +1,78 @@
+---
+description: Does Wicked - Part 1 (2024) have a post credit scene?
+tags: 
+    - movie
+    - Kristin Chenoweth
+    - Wizard of Oz
+    - SNL
+    - Michelle Yeoh
+    - Shiz
+    - Ethan Slater
+    - Scarecrow
+    - slippers
+    - scene
+    - Idina Menzel
+    - Bronwyn James
+    - music
+    - ruby
+    - wizard
+    - Galinda
+    - theater
+    - Tin Man
+    - Jon M. Chu
+    - Bowen Yang
+    - animals
+    - Keala Settle
+    - university
+    - miscast
+    - Ariana Grande
+    - part
+    - musical
+    - sets
+    - Marissa Bode
+    - cinema
+    - Cowardly Lion
+    - Yellow Brick Road
+    - spoiler
+    - cameo
+    - sequel
+    - Glinda
+    - wheelchair
+    - dub
+    - Dorothy
+    - spoilers
+    - Colin Michael Carmichael
+    - magic
+    - singing
+    - school
+    - green
+    - witch
+    - scenes
+    - broomstick
+    - Cynthia Erivo
+    - Elphaba
+    - Wicked - Part 1
+    - Broadway
+    - act
+    - flying
+    - monkeys
+    - shoes
+    - post-credit
+    - post-credits
+    - theatre
+    - prequel
+    - performance
+    - Munchkins
+    - songs
+    - stage
+    - Jonathan Bailey
+    - Defying Gravity
+    - film
+    - Popular
+    - Peter Dinklage
+    - Jeff Goldblum
+---
+
+## Does Wicked: Part 1 (2024) have a post credit scene?
+
+No.
