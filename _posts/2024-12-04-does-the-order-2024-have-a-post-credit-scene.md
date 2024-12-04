@@ -1,0 +1,64 @@
+---
+description: Does The Order (2024) have a post credit scene?
+tags: 
+    - bank robbery
+    - KKK
+    - Jews
+    - theater
+    - Idaho
+    - skinhead
+    - Tye Sheridan
+    - Denver
+    - spoiler
+    - scene
+    - drama
+    - cult
+    - wife
+    - The Order
+    - 1980
+    - agent
+    - spoilers
+    - Daniel Yip
+    - Ku Klux Klan
+    - Nazi
+    - scenes
+    - movie
+    - white power
+    - Alison Oliver
+    - Marc Maron
+    - porno
+    - George Tchortov
+    - cat and mouse
+    - Odessa Young
+    - Victor Slezak
+    - film
+    - Justin Kurzel
+    - Sebastian Pigott
+    - Jude Law
+    - theatre
+    - Nicholas Hoult
+    - cinema
+    - post-credits
+    - white nationalists
+    - government
+    - hunt
+    - crime
+    - Jurnee Smollett
+    - Turner Diaries
+    - post-credit
+    - Oklahoma City
+    - Daniel Doheny
+    - murder
+    - fascist
+    - FBI
+    - Trump
+    - faith
+    - violence
+    - pregnant
+    - religion
+    - insurrection
+---
+
+## Does The Order (2024) have a post credit scene?
+
+No.
