@@ -1,0 +1,65 @@
+---
+description: Does The Lord of the Rings - The War of the Rohirrim (2024) have a post credit scene?
+tags: 
+    - anime
+    - ring
+    - survival
+    - Miranda Otto
+    - Lorraine Ashbourne
+    - adventure
+    - Helm's Deep
+    - Gondor
+    - Isengard
+    - Wolf
+    - Legolas
+    - revenge
+    - movie
+    - scene
+    - Gaia Wise
+    - Gollum
+    - Kenji Kamiyama
+    - fire
+    - Shaun Dooley
+    - tower
+    - scenes
+    - fight
+    - cinema
+    - Jude Akuwudike
+    - Saruman
+    - battle
+    - manga
+    - Michael Wildman
+    - J.R.R.
+    - Tolkien
+    - Luke Pasqualino
+    - war
+    - Gandalf
+    - theatre
+    - theater
+    - Frodo
+    - Yazdan Qafouri
+    - action
+    - Warner Bros.
+    - Janine Duvitski
+    - Japan
+    - spoilers
+    - eagle
+    - spoiler
+    - keep
+    - The Lord of the Rings - The War of the Rohirrim
+    - Rohan
+    - power
+    - Benjamin Wainwright
+    - Bilal Hasna
+    - horse
+    - post-credit
+    - post-credits
+    - film
+    - Aragorn
+    - Brian Cox
+    - winter
+---
+
+## Does The Lord of the Rings: The War of the Rohirrim (2024) have a post credit scene?
+
+No.
