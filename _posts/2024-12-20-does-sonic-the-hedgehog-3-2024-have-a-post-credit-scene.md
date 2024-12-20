@@ -1,0 +1,70 @@
+---
+description: Does Sonic the Hedgehog 3 (2024) have a post credit scene?
+tags: 
+    - Eggman
+    - Lee Majdoub
+    - theater
+    - Sofia Pernas
+    - Robotnik
+    - cinema
+    - laser
+    - Adam Pally
+    - G.U.N.
+    - doctor
+    - science
+    - scenes
+    - London
+    - Krysten Ritter
+    - action
+    - Matrix
+    - theatre
+    - Ben Schwartz
+    - Idris Elba
+    - revenge
+    - Tokyo
+    - guns
+    - James Marsden
+    - Cristo Fernández
+    - Donut Lord
+    - grandfather
+    - Jim Carrey
+    - Shadow
+    - space
+    - Keanu Reeves
+    - kids
+    - emerald
+    - scene
+    - spoiler
+    - team
+    - Sonic the Hedgehog 3
+    - adventure
+    - movie
+    - film
+    - Paramount
+    - children
+    - Natasha Rothwell
+    - Alyla Browne
+    - Tom Butler
+    - sequel
+    - James Wolk
+    - Jorma Taccone
+    - Tails
+    - Shemar Moore
+    - Colleen O'Shaughnessey
+    - Jeff Fowler
+    - bike
+    - twins
+    - robots
+    - video games
+    - post-credit
+    - Knuckles
+    - Japan
+    - animated
+    - post-credits
+    - Tika Sumpter
+    - spoilers
+---
+
+## Does Sonic the Hedgehog 3 (2024) have a post credit scene?
+
+Yes.
