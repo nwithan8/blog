@@ -1,0 +1,68 @@
+---
+description: Does A Complete Unknown (2024) have a post credit scene?
+tags: 
+    - James Mangold
+    - John F. Kennedy
+    - Boyd Holbrook
+    - Pete Seeger
+    - theatre
+    - Will Harrison
+    - Edward Norton
+    - Big Bill Morganfield
+    - post-credits
+    - A Complete Unknown
+    - Blowing in the Wind
+    - Laura Kariuki
+    - All Along The Watchtower
+    - movie
+    - spoilers
+    - Walk Hard
+    - album
+    - roll
+    - pop
+    - Woody Guthrie
+    - scene
+    - cinema
+    - New York
+    - Cuban missile crisis
+    - folk
+    - Elle Fanning
+    - rock
+    - music
+    - Dune
+    - Joe Tippett
+    - Johnny Cash
+    - David Alan Basche
+    - Charlie Tahan
+    - Logan
+    - Scoot McNairy
+    - James Austin Johnson
+    - Monica Barbaro
+    - singing
+    - Dan Fogler
+    - post-credit
+    - biopic
+    - Eli Brown
+    - Nick Pupo
+    - Providence
+    - scenes
+    - Eric Berryman
+    - theater
+    - The Times They Are A'Changing
+    - Bob Dylan
+    - guitar
+    - country
+    - spoiler
+    - festival
+    - 1960s
+    - assassination
+    - Joan Baez
+    - P.J. Byrne
+    - Rhode Island
+    - film
+    - Timothée Chalamet
+---
+
+## Does A Complete Unknown (2024) have a post credit scene?
+
+No.
