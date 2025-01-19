@@ -1,0 +1,65 @@
+---
+description: Does Den of Thieves 2 - Pantera (2025) have a post credit scene?
+tags: 
+    - Rico Verhoeven
+    - Swen Temmel
+    - Cristian Solimeno
+    - plan
+    - Salvatore Esposito
+    - robbery
+    - trick
+    - operation
+    - post-credit
+    - Fortunato Cerlino
+    - cinema
+    - Dino Kelly
+    - Antonio Bustorff
+    - O'Shea Jackson Jr.
+    - heist
+    - Den of Thieves 2 - Pantera
+    - scene
+    - Pat SKipper
+    - France
+    - Jordan Bridges
+    - cop
+    - Ice Cube
+    - movie
+    - action
+    - film
+    - diamonds
+    - escape
+    - Christian Gudegast
+    - partnership
+    - mafia
+    - spoilers
+    - Nazmiye Oral
+    - sting
+    - scenes
+    - cars
+    - Evin Ahmad
+    - Gerard Butler
+    - FBI
+    - Nice
+    - post-credits
+    - drama
+    - 50 Cent
+    - Adriano Chiaramida
+    - theft
+    - drugs
+    - bank
+    - theater
+    - gangster
+    - spoiler
+    - theatre
+    - sequel
+    - Michael Bisping
+    - exchange
+    - Orli Shuka
+    - Giuseppe Schillaci
+    - Velibor Topic
+    - Meadon Williams
+---
+
+## Does Den of Thieves 2: Pantera (2025) have a post credit scene?
+
+No.
