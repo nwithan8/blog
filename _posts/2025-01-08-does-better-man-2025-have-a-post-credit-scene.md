@@ -47,6 +47,6 @@ tags:
     - animal
 ---
 
-## Does Better Man (2024) have a post credit scene?
+## Does Better Man (2025) have a post credit scene?
 
 No.

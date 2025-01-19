@@ -37,6 +37,6 @@ tags:
     - The Last Showgirl
 ---
 
-## Does The Last Showgirl (2024) have a post credit scene?
+## Does The Last Showgirl (2025) have a post credit scene?
 
 No.

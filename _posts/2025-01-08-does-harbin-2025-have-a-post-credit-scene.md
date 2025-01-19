@@ -38,6 +38,6 @@ tags:
     - theatre
 ---
 
-## Does Harbin (2024) have a post credit scene?
+## Does Harbin (2025) have a post credit scene?
 
 No.
