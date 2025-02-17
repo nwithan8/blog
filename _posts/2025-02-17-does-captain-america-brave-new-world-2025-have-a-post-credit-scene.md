@@ -1,0 +1,64 @@
+---
+description: Does Captain America - Brave New World (2025) have a post credit scene?
+tags: 
+    - red
+    - William Hurt
+    - Israel
+    - adamantium
+    - Liv Tyler
+    - Anthony Mackie
+    - Danny Ramirez
+    - Tim Blake Nelson
+    - superhero
+    - Edward Norton
+    - film
+    - cinema
+    - United States
+    - sequel
+    - Marvel
+    - The Leader
+    - Eternals
+    - post-credit
+    - Hulk
+    - Disney
+    - politics
+    - Miami
+    - Manchurian Candidate
+    - president
+    - Galactus
+    - spy
+    - scenes
+    - spoilers
+    - Trump
+    - celestial
+    - Wakanda
+    - war
+    - scene
+    - Wolverine
+    - spoiler
+    - Julius Onah
+    - Giancarlo Esposito
+    - theater
+    - post-credits
+    - Harrison Ford
+    - mind-control
+    - Shira Haas
+    - Falcon
+    - Japan
+    - Winter Soldier
+    - Serpent Society
+    - Mark Ruffalo
+    - Eric Bana
+    - Black Widow
+    - Carl Lumbly
+    - Captain America - Brave New World
+    - thriller
+    - vibranium
+    - assassination
+    - movie
+    - theatre
+---
+
+## Does Captain America: Brave New World (2025) have a post credit scene?
+
+Yes.
