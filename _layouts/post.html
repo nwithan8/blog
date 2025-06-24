@@ -27,13 +27,21 @@ layout: default
   </div>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-  
-  <script src="https://utteranc.es/client.js"
-        repo="nwithan8/blog"
-        issue-term="og:title"
-        label="Comment"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
+
+  <script src="https://giscus.app/client.js"
+          data-repo="nwithan8/blog"
+          data-repo-id="{{ site.giscus_repo_id }}"
+          data-category="Comments"
+          data-category-id="{{ site.giscus_category_id }}"
+          data-mapping="pathname"
+          data-strict="0"
+          data-reactions-enabled="1"
+          data-emit-metadata="0"
+          data-input-position="top"
+          data-theme="preferred_color_scheme"
+          data-lang="en"
+          data-loading="lazy"
+          crossorigin="anonymous"
+          async>
   </script>
 </article>

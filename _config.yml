@@ -43,3 +43,6 @@ defaults:
       type: post
     values:
       tags: Other
+
+giscus_repo_id: R_kgDOGpm_ZQ
+giscus_category_id: DIC_kwDOGpm_Zc4Cr6g_
