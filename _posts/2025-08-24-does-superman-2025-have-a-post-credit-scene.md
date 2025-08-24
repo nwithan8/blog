@@ -1,0 +1,64 @@
+---
+description: Does Superman (2025) have a post credit scene?
+tags: 
+    - black hole
+    - movie
+    - scenes
+    - Nathan Fillion
+    - Isabela Merced
+    - cinema
+    - Alan Tudyk
+    - Clark Kent
+    - Green Lantern
+    - Zack Snyder
+    - dictator
+    - Mr. Terrific
+    - post-credits
+    - James Gunn
+    - invasion
+    - Eve
+    - Perry White
+    - scene
+    - Guy Gardner
+    - film
+    - Pruitt Taylor Vince
+    - Krypto
+    - spoiler
+    - Superman
+    - David Corenswet
+    - Sara Sampaio
+    - Metropolis
+    - spoilers
+    - Edi Gathegi
+    - Skyler Gisondo
+    - reboot
+    - Nicholas Hoult
+    - María Gabriela de Faría
+    - Neva Howell
+    - origin
+    - genocide
+    - post-credit
+    - Rachel Brosnahan
+    - Lex Luther
+    - theater
+    - Hawkgirl
+    - DC
+    - Engineer
+    - Anthony Carrigan
+    - Henry Cavill
+    - dog
+    - Jimmy Olsen
+    - Wendell Pierce
+    - Supergirl
+    - Lois Lane
+    - theatre
+    - politics
+    - Israel
+    - clone
+    - Smallville
+    - pocket dimension
+---
+
+## Does Superman (2025) have a post credit scene?
+
+Yes.
