@@ -1,0 +1,79 @@
+---
+description: Does Wicked - For Good (2025) have a post credit scene?
+tags: 
+    - miscast
+    - flying
+    - witch
+    - Marissa Bode
+    - Scarecrow
+    - Elphaba
+    - Peter Dinklage
+    - Dorothy
+    - Defying Gravity
+    - post-credits
+    - spoiler
+    - Bronwyn James
+    - Munchkins
+    - Wizard of Oz
+    - Keala Settle
+    - songs
+    - singing
+    - Jonathan Bailey
+    - music
+    - Idina Menzel
+    - spoilers
+    - green
+    - part
+    - Glinda
+    - Popular
+    - scene
+    - film
+    - sequel
+    - Tin Man
+    - Cynthia Erivo
+    - Ethan Slater
+    - stage
+    - dub
+    - prequel
+    - Broadway
+    - university
+    - Jeff Goldblum
+    - broomstick
+    - Yellow Brick Road
+    - slippers
+    - sets
+    - shoes
+    - act
+    - Michelle Yeoh
+    - Shiz
+    - Kristin Chenoweth
+    - musical
+    - Bowen Yang
+    - performance
+    - Jon M. Chu
+    - animals
+    - wizard
+    - movie
+    - scenes
+    - wheelchair
+    - magic
+    - ruby
+    - Wicked - For Good
+    - cinema
+    - Colin Michael Carmichael
+    - theater
+    - monkeys
+    - Galinda
+    - ozempic
+    - cameo
+    - Cowardly Lion
+    - SNL
+    - post-credit
+    - school
+    - Ariana Grande
+    - theatre
+---
+
+## Does Wicked: For Good (2025) have a post credit scene?
+
+No.
