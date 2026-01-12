@@ -1,0 +1,63 @@
+---
+description: Does Avatar - Fire and Ash (2025) have a post credit scene?
+tags: 
+    - Oona Chaplin
+    - Edie Falco
+    - Britain Dalton
+    - David Thewlis
+    - Jamie Flatters
+    - scenes
+    - sequel
+    - Brendan Cowell
+    - Filip Geljo
+    - Matt Gerald
+    - theater
+    - Joel David Moore
+    - Avatar - Fire and Ash
+    - war
+    - post-credit
+    - traitor
+    - CGI
+    - spoilers
+    - creature
+    - 3-D
+    - Bailey Bass
+    - Giovanni Ribisi
+    - whale
+    - spoiler
+    - Stephen Lang
+    - spiritual
+    - elements
+    - Pandora
+    - terrorist
+    - Jack Champion
+    - film
+    - fire
+    - CCH Pounder
+    - theatre
+    - Jemaine Clement
+    - military
+    - Kate Winslet
+    - battle
+    - scene
+    - Trinity Jo-Li Bliss
+    - breath
+    - jungle
+    - movie
+    - water
+    - effects
+    - post-credits
+    - air
+    - cinema
+    - Cliff Curtis
+    - James Cameron
+    - Sam Worthington
+    - Duane Evans Jr.
+    - Zoe Saldaña
+    - nature
+    - Sigourney Weaver
+---
+
+## Does Avatar: Fire and Ash (2025) have a post credit scene?
+
+No.
